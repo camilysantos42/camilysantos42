@@ -43,7 +43,7 @@ learning new technologies and building practical projects.</p>
 
 <h2>Contact:</h2>
 
-<a href="https://www.linkedin.com/in/camilysantoss/" target="_blank">
+<a href="www.linkedin.com/in/camilysilva42" target="_blank">
   <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" widht="50" height="50" alt="linkedin logo">
 </a>
 
