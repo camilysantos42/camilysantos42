@@ -1,11 +1,11 @@
 <br clear="both">
 
-<h1 align="left">Hi! I'm Oráculo!⚡</h1>
+<h1 align="left">Hi! I'm Camy!⚡</h1>
 
 <img align="right" height="220" src="https://github.com/user-attachments/assets/36907307-8cc6-431b-8f18-1926c5822690" />
 
 <div style="display: flex; align-itens: center;"> <p align="left"> 
-Hey! My name is Camily, but you can call me Oráculo.</p>
+Hey! My name is Camily, but you can call me Camy.</p>
 </div>
 
 <p align="left"> 
